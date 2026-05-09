@@ -514,6 +514,7 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gray-100">
+      <div className="bg-green-100 text-green-800 text-center py-1 text-sm font-bold">APP IS RENDERING</div>
       {/* Header */}
       <header className="bg-white shadow-sm border-b border-gray-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
